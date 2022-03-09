@@ -1,0 +1,13 @@
+{
+  "Name": "Luminance",
+  "BIDSVersion": "1.4.0",
+  "DatasetType": "raw",
+  "Authors":
+        [
+            "Shai Sabbah",
+            "Michael S. Worden",
+            "Dimitrios D. Laniado",
+            "David M. Berson",
+            "Jerome N. Sanes"
+        ]
+}

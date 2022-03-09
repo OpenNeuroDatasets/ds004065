@@ -1,0 +1,11 @@
+{
+    "Modality": "MR",
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Prisma_fit",
+    "InstitutionName": "BROWN_UNIVERSITY_MRF",
+    "BodyPartExamined": "Head",
+    "PatientPosition": "HFS",
+    "DataType": "anat",
+    "ModalityLabel": "T1w"
+}
