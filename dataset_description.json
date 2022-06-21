@@ -16,5 +16,8 @@
         "Banting Postdoctoral Fellowship of Canada",
         "Alcon Research Institute Award"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "EthicsApprovals": [
+        "Brown University IRB"
+    ]
 }
